@@ -61,7 +61,7 @@ export default {
 
 <style>
 #app {
-  display:grid;
+  display: grid;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   justify-content: center;
   -webkit-font-smoothing: antialiased;
